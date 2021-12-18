@@ -29,6 +29,10 @@
 https://stackoverflow.com/questions/13445147/keil-virtual-or-protected-destructor-and-heap
 2. Реализация startup-кода в библиотеке newlib-arm от GNU GCC на примере nRF52840\
 https://embeddedartistry.com/blog/2019/04/17/exploring-startup-implementations-newlib-arm/
+3. Официальный репозиторий Nordic Semiconductor\
+https://github.com/NordicSemiconductor
+4. Дополнительный репозиторий для вспомогательных проектов\
+https://github.com/NordicPlayground
 
 ### Исправление возможных проблем
 #### Потребление
