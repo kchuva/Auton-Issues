@@ -52,5 +52,5 @@ https://devzone.nordicsemi.com/f/nordic-q-a/1657/how-to-minimize-current-consump
 3. Проверить параметры подключения, особенно Latency (связанная задача [13264](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=13264))
 
 ##### Разрыв соединения с кодом 0x28 (BLE_HCI_INSTANT_PASSED)
-https://devzone.nordicsemi.com/f/nordic-q-a/80082/eliminate-ble_hci_instant_passed-0x28-ble-disconnection
+https://devzone.nordicsemi.com/f/nordic-q-a/80082/eliminate-ble_hci_instant_passed-0x28-ble-disconnection \
 https://devzone.nordicsemi.com/f/nordic-q-a/29054/handling-connection-parameter-update-request-from-central
