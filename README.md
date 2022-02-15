@@ -23,6 +23,8 @@
 | --- | --- |
 | [14414](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=14414) | зависание в методе отправки данных по SPI |
 | [13454](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=13454) | невозможно подключиться к датчику по BLE после обновления прошивки |
+| [14848](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=14848) | ЭрТелеком, Chirpstark - проблема отстутствия передачи данных по LoRaWAN |
+| [10890](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=10890) | Сибур - периодическая остановка передачи данных по LoRaWAN |
 
 ### Интересные ссылки
 1. Почему в Keil нельзя виртуальные деструкторы и no-heap одновременно\
