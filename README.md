@@ -15,6 +15,7 @@
 | [15972](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=15972) | ошибка записи во внутреннюю flash-память |
 | [15991](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=15991) | ошибка передачи данных в динамографе |
 | [16282](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=16282) | ошибка передачи данных в динамографе |
+| [15137](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=15137) | ОПИ шлюза в ЭР-Телеком, описание ошибок парсинга на стороне сервера и снова проблема ChirpStack и версии 1.0.3 спецификации |
 |  |  |
 | [13660](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=13660) | ошибка работы GSM модема в A114-20 (проблема на момент работы над задачей была закрыта, но воспроизводится в других устройствах, причина проблемы не найдена - есть связанная задача 13042) |
 | [13042](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=13042) | ошибка функционирования модема GSM SIM800 в A515-20 (на текущий момент причина не найдена, есть связанная задача 13660) |
