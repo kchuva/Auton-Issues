@@ -19,6 +19,7 @@
 | [16652](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=16652) | ошибка не срабатывания прерывания от RTC |
 | [15816](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=15816) | анализ необходимости доработки ПО для поддержки структур без поля LocationId |
 | [15762](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=15762) | отказ от поля LocationId в датчиках (недоделанная, есть shelveset) |
+| [13437](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=13437) | перевод времени назад |
 |  |  |
 | [13660](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=13660) | ошибка работы GSM модема в A114-20 (проблема на момент работы над задачей была закрыта, но воспроизводится в других устройствах, причина проблемы не найдена - есть связанная задача 13042) |
 | [13042](http://atfs16:8080/tfs/DefaultCollection/A/_workitems?_a=edit&id=13042) | ошибка функционирования модема GSM SIM800 в A515-20 (на текущий момент причина не найдена, есть связанная задача 13660) |
